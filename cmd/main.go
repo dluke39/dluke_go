@@ -18,5 +18,4 @@ func main() {
 
 	fmt.Println(r)
 	fmt.Println("This is the updated version of the project.")
-	fmt.Print("This is the vietnamese version of the file.")
 }
