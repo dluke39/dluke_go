@@ -27,4 +27,5 @@ func main() {
 
 	fmt.Println(r)
 	fmt.Println("This is the updated version of the project.")
+	fmt.Println("This is just a test")
 }
